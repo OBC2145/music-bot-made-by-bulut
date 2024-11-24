@@ -1,4 +1,3 @@
-# music-bot-made-by-bulut
 # Discord.js v14 Slash Commands Music Bot
 <h1>Add MusicMaker: https://bit.ly/3R4uTSf</h1><br>
 <h1>Support: https://discord.gg/codes</h1><br>
